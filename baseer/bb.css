@@ -1,0 +1,44 @@
+ /*registration code*/
+ .change{
+    background-color: lightpink;
+ }
+ .container{
+    margin: 152px 50px ;
+ }
+ .container .title{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    color:black;
+    padding:10px;
+ }
+ .form input{
+    border: 2px solid black;
+        margin-bottom: 10px;
+        margin-left:2px;
+        width:50%;
+        padding: 5px;
+        display:flex;
+        justify-content:center;
+      }
+      .form .input_field{
+        margin: 2px;
+        padding-left: 170px;
+        margin-left:30px;
+      }
+    .form .submit{
+        text-transform: uppercase;
+        margin: 10px;
+        margin-left: 250px;
+        padding: 5px;
+        display: flex;
+        
+    }
+    .form .login{
+        color: black;
+        margin-left: 250px;
+        padding: 3px;
+        border: 2px solid black;
+        border-radius:1cap;
+    }

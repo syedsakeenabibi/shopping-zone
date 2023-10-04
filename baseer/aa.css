@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .form-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+  }
+  
+  form input {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color:lightpink;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color:lightpink;
+  }
+
